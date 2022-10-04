@@ -6,6 +6,6 @@ for char in string:
 
 
 if string.lower() == reverse_string.lower():
-    print("Palindrome")
+    print("It's a Palindrome")
 else:
     print("Not a palindrome")    
